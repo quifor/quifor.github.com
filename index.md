@@ -5,7 +5,7 @@ tagline: It's more than you think.
 ---
 {% include JB/setup %}
 
-Adding something
+
 
 <ul class="posts">
   {% for post in site.posts %}
